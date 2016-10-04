@@ -1,0 +1,3 @@
+function() {
+  Logger.log('hello');
+}
