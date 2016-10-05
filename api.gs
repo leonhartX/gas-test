@@ -1,6 +1,6 @@
 function run_test() {
   Logger.clear();
-  var param = ["0","测试", "99e"];
+  var param = ["0","测试", "999e"];
   Logger.log(addOutgo(param));
 }
 
