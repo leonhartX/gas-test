@@ -1,3 +1,3 @@
-function() {
-  Logger.log('hello world!!');
+function test () {
+  Logger.log('hello world');
 }
