@@ -1,1 +1,1 @@
-add something
+var a = 'test'
