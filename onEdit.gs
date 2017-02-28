@@ -1,1 +1,1 @@
-getElementsReq
+myFunction
