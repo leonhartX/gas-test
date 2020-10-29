@@ -1,3 +1,3 @@
 function myFunction() {
-  var a1;
+  var a2;
 }
