@@ -1,3 +1,3 @@
 function myFunction() {
-  test
+  var a = 1;
 }
